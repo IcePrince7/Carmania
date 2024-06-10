@@ -30,6 +30,16 @@ The technical details of the project are as follows:
 
 **- API:** The application uses a RESTful API to interact with the backend and retrieve data from the database.
 
+## Challenges Faced
+During the development process, I encountered several challenges:
+
+**- Data Modeling:** Designing a suitable data model for the cars, including the fields and schema for the MongoDB database, was challenging.
+
+**- Error Handling:** Implementing effective error handling mechanisms to handle unexpected errors and exceptions posed a challenge.
+
+**- Frontend-Backend Integration:** Integrating the frontend and backend of the application required careful planning and execution.
+
+
 ## Design Patterns
 The application follows the Model-View-Controller (MVC) pattern, which is illustrated below:
 
@@ -40,12 +50,4 @@ The application follows the Model-View-Controller (MVC) pattern, which is illust
 |   Data      |        |   Logic    |       |   UI/UX    |
 +-------------+        +------------+       +------------+
 
-## Challenges Faced
-During the development process, I encountered several challenges:
-
-**- Data Modeling:** Designing a suitable data model for the cars, including the fields and schema for the MongoDB database, was challenging.
-
-**- Error Handling:** Implementing effective error handling mechanisms to handle unexpected errors and exceptions posed a challenge.
-
-**- Frontend-Backend Integration:** Integrating the frontend and backend of the application required careful planning and execution.
 
