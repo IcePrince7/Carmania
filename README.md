@@ -39,6 +39,7 @@ The application follows the Model-View-Controller (MVC) pattern, which is illust
 +-------------+        +------------+       +------------+
 |   Data      |        |   Logic    |       |   UI/UX    |
 +-------------+        +------------+       +------------+
+
 ## Challenges Faced
 During the development process, I encountered several challenges:
 
