@@ -1,4 +1,5 @@
-# CarMania - A Car Reselling E-commerce Site
+# [CarMania - A Car Reselling E-commerce Site](https://github.com/IcePrince7/Carmania/)
+
 
 Welcome to CarMania, the premier e-commerce platform catering to all your automotive needs. Whether you're in search of your dream car, stylish merchandise to showcase your passion, or high-quality parts to enhance your vehicle's performance, CarMania has you covered.
 
@@ -28,7 +29,8 @@ The technical details of the project are as follows:
 
 **- Database:** The application uses a MongoDB database to store information about the cars.
 
-**- API:** The application uses a RESTful API to interact with the backend and retrieve data from the database.
+**- API:** The application uses a RESTful API to interact with the backend and retrieve data from the database.And to do that, you need to have the database with the environmental variables set on it.Ex : MONGO_URI=mongodb+srv://<name>:<Password>@cluster0.ls1gm90.mongodb.net/?retryWrites=true&w=majority&appName=<Clustername>
+ 
 
 ## Challenges Faced
 During the development process, I encountered several challenges:
@@ -37,8 +39,7 @@ During the development process, I encountered several challenges:
 
 **- Error Handling:** Implementing effective error handling mechanisms to handle unexpected errors and exceptions posed a challenge.
 
-**- Frontend-Backend Integration:** Integrating the frontend and backend of the application required careful planning and execution.
-
+**- Frontend-Backend Integration:** Integrating the frontend and backend of the application Has done and having a smooth transitions and animations which I indented to.
 
 ## Design Patterns
 The application follows the Model-View-Controller (MVC) pattern, which is illustrated below:
